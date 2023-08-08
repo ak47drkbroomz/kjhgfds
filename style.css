@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(189, 106, 12, 0.562);
+}
+#resultrow{
+    border: solid;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique ;
+    font-weight: 500;
+}
